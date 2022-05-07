@@ -63,6 +63,7 @@ margin-top: 5rem;
     @media screen and (max-width: 991px) {
         .teethCare-container{
             flex-direction: column;
+            text-align: center;
             .img-section{
                 width: 95%;
                 margin: 0 auto;

@@ -1,4 +1,5 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Footer from "./components/Footer";
 import AboutUs from "./pages/AboutUs";
 import Features from "./pages/Features";
 import Header from "./pages/Header";
@@ -24,6 +25,7 @@ function App() {
         <Route path="/services" element={<Services />} />
 
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 }

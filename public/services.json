@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Dental Implants",
+        "description": "Dental implants are replacement tooth roots. Implants provide a strong foundation for fixed (permanent) or removable replacement teeth that are made to match your natural teeth.",
+        "price": 30,
+        "image": "https://tysonsdentalspava.com/wp-content/uploads/2021/03/Dental-Implant-Feat-2-scaled.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Dental Root canal",
+        "description": "Root canal is a treatment to repair and save a badly damaged or infected tooth instead of removing it. The term root canal comes from cleaning of the canals inside a tooth's root. Decades ago, root canal treatments often were painful.",
+        "price": 29,
+        "image": "https://eastportdentalaz.com/wp-content/uploads/2019/06/root-canal-mesa.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Teeth Whitening",
+        "description": "What is teeth whitening? Teeth whitening involves bleaching your teeth to make them lighter. It can't make your teeth brilliant white, but it can lighten the existing colour by several shades.",
+        "price": 25,
+        "image": "https://assets.website-files.com/5cd0b44ea7503ac1beb6e401/5f3eb47096a8b088f01b20d6_14_%20BFD_%20AUG%202020_%20BLOG_%20How%20Teeth%20Whitening%20Works.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Wisdom Teeth",
+        "description": "Wisdom teeth are the third and final set of molars that most people get in their late teens or early twenties. Sometimes these teeth can be a valuable asset to the mouth when healthy and properly aligned, but more often, they are misaligned and require removal.",
+        "price": 30,
+        "image": "https://omegadentists.com/wp-content/uploads/2020/08/tooth-extraction.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Crowns Bridges",
+        "description": "These teeth, called abutments, serve as anchors for the bridge. A replacement tooth, called a pontic, is attached to the crowns that cover the abutments. As with crowns, you have a choice of materials for bridges.",
+        "price": 27,
+        "image": "https://mymagnoliadental.com/wp-content/uploads/sites/247/2020/01/MagnoliaJan20-min.jpg.optimal.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Cosmetic Dentis",
+        "description": "A general dentist cares for the basic dental needs of your whole family, while a cosmetic dentist concentrates more on the aesthetics of the patient's smile. Both cosmetic and general dentists can fill a cavity.",
+        "price": 23,
+        "image": "http://www.smilescreator.com/wp-content/uploads/2021/02/31-cosmetic-denta-surgery-b.jpg"
+    }
+]
